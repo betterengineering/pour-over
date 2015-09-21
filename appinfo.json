@@ -20,4 +20,16 @@
                 "name": "IMAGE_MENU_ICON",
                 "file": "images/menu_icon.png"
             },
+            {
+                "type": "png",
+                "name": "MENU_V60",
+                "file": "images/menu_v60.png"
+            },
+            {
+                "type": "png",
+                "name": "MENU_CHEMEX",
+                "file": "images/menu_chemex.png"
+            }
+        ]
+    }
 }
