@@ -1,18 +1,23 @@
 {
-  "uuid": "9ac70905-4c84-4631-942e-f4429d780008",
-  "shortName": "pour-over",
-  "longName": "pour-over",
-  "companyName": "Mark Spicer",
-  "versionLabel": "1.0",
-  "sdkVersion": "3",
-  "targetPlatforms": ["basalt"],
-  "watchapp": {
-    "watchface": false
-  },
-  "appKeys": {
-    "dummy": 0
-  },
-  "resources": {
-    "media": []
-  }
+    "uuid": "9ac70905-4c84-4631-942e-f4429d780008",
+    "shortName": "pour-over",
+    "longName": "pour-over",
+    "companyName": "Mark Spicer",
+    "versionLabel": "1.0",
+    "sdkVersion": "3",
+    "targetPlatforms": ["basalt"],
+    "watchapp": {
+        "watchface": false
+    },
+    "appKeys": {
+        "dummy": 0
+    },
+    "resources": {
+        "media": [
+            {
+                "menuIcon": true,
+                "type": "png",
+                "name": "IMAGE_MENU_ICON",
+                "file": "images/menu_icon.png"
+            },
 }
