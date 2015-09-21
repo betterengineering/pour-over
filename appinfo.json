@@ -29,6 +29,16 @@
                 "type": "png",
                 "name": "MENU_CHEMEX",
                 "file": "images/menu_chemex.png"
+            },
+            {
+                "type": "png",
+                "name": "PREP_V60",
+                "file": "images/prep_v60.png"
+            },
+            {
+                "type": "png",
+                "name": "PREP_CHEMEX",
+                "file": "images/prep_chemex.png"
             }
         ]
     }
